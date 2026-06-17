@@ -1,4 +1,4 @@
-# Spotlight — Phase 1 (Foundation)
+# Spotlight — Phase 1 (Foundation) **NOT YET COMPLETED**
 
 A Windows desktop launcher: Alt+Space opens a floating search bar over
 everything, search apps/files/folders with typo-tolerant fuzzy
